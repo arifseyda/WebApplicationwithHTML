@@ -1,6 +1,6 @@
 # Web Application Features
 
-I develop this web application with htlm, css and javascript.
+I developed this web application with htlm, css and javascript.
 
 This project tells about the America features. For example, It tells america cultures, politics and economy , social lifes, foods as well.
 
